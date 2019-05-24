@@ -7,7 +7,7 @@ To demonstrate the validation of the user defined hypotheses using Machine learn
 4. Annual Sunshine Duration will increase : To test if the total number of hours of sunshine annually will increase 
 5. Snowfall in Winter will decrease : To test if the total amount of snowfall during winter will decrease
 
-# Follow the User Manual.pdf to run the notebook
+Follow the User Manual.pdf to run the notebook
 If you do not have access to Hartree SAFE account, then you need to download the data sets from Met Office Website and upload it to your HDFS.
 
 Datasets can be found over here : https://www.metoffice.gov.uk/climate/uk/data/ukcp09
