@@ -1,5 +1,5 @@
 # UK-Climate-Analysis
-To demonstrate the validation of the user defined hypotheses using Machine learning algorithm about climate change in the UK: 
+To demonstrate the validation of the user defined hypotheses using Machine learning algorithm about climate change in the UK : 
 
 1. Winter will be wetter : To test if the total number of days during winter having heavy rainfall increases 
 2. Summer will be warmer : To test if the total number of days during summer have temperature more than 18 degree 
