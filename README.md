@@ -11,4 +11,4 @@ To demonstrate the validation of the user defined hypotheses using Machine learn
 
 - Follow the User Manual.pdf to run the notebook
 
-- If you do not have access to Hartree SAFE account, then you need to download the data sets from Met Office Website https://www.metoffice.gov.uk/climate/uk/data/ukcp09 and upload it to your HDFS, install spark and pyspark dependencies and have high computing resources such as RAM, CPU speed and storage (preferably HPC).
+- If you do not have access to Hartree SAFE account, then you need to download the data sets from Met Office Website https://www.metoffice.gov.uk/climate/uk/data/ukcp09 and upload it to your HDFS, install spark and pyspark dependencies and have high computing resources such as RAM, multi-core CPU's and sufficient storage (preferably HPC).
