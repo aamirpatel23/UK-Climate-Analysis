@@ -1,6 +1,6 @@
 # UK-Climate-Analysis
 
-### Project based on [COMP530 Big Data Group Project](https://intranet.csc.liv.ac.uk/teaching/modules/module.php?code=COMP530) at University of Liverpool
+### Project based on [COMP530 Big Data Group Project](https://intranet.csc.liv.ac.uk/teaching/modules/module.php?code=COMP530) module at University of Liverpool
 
 To demonstrate the validation of the user defined hypotheses using Machine learning algorithm about climate change in the UK : 
 
